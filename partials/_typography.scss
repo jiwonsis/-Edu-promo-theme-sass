@@ -1,0 +1,116 @@
+@font-face {
+  font-family:'Aileron-Black';
+  src: url('../fonts/Aileron-Black_latin+latin-ext_gdi.eot');
+  src: url('../fonts/Aileron-Black_latin+latin-ext_gdi.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Aileron-Black_latin+latin-ext_gdi.woff') format('woff'),
+    url('../fonts/Aileron-Black_latin+latin-ext_gdi.ttf') format('truetype'),
+    url('../fonts/Aileron-Black_latin+latin-ext_gdi.svg#Aileron-Black') format('svg');
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-20AC;
+}
+
+@font-face {
+  font-family:'Aileron-Bold';
+  src: url('../fonts/Aileron-Bold_latin+latin-ext_gdi.eot');
+  src: url('../fonts/Aileron-Bold_latin+latin-ext_gdi.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Aileron-Bold_latin+latin-ext_gdi.woff') format('woff'),
+    url('../fonts/Aileron-Bold_latin+latin-ext_gdi.ttf') format('truetype'),
+    url('../fonts/Aileron-Bold_latin+latin-ext_gdi.svg#Aileron-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-20AC;
+}
+
+@font-face {
+  font-family:'Aileron-Heavy';
+  src: url('../fonts/Aileron-Heavy_latin+latin-ext_gdi.eot');
+  src: url('../fonts/Aileron-Heavy_latin+latin-ext_gdi.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Aileron-Heavy_latin+latin-ext_gdi.woff') format('woff'),
+    url('../fonts/Aileron-Heavy_latin+latin-ext_gdi.ttf') format('truetype'),
+    url('../fonts/Aileron-Heavy_latin+latin-ext_gdi.svg#Aileron-Heavy') format('svg');
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-20AC;
+}
+
+@font-face {
+  font-family:'Aileron-Light';
+  src: url('../fonts/Aileron-Light_latin+latin-ext_gdi.eot');
+  src: url('../fonts/Aileron-Light_latin+latin-ext_gdi.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Aileron-Light_latin+latin-ext_gdi.woff') format('woff'),
+    url('../fonts/Aileron-Light_latin+latin-ext_gdi.ttf') format('truetype'),
+    url('../fonts/Aileron-Light_latin+latin-ext_gdi.svg#Aileron-Light') format('svg');
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-20AC;
+}
+
+@font-face {
+  font-family:'Aileron-Regular';
+  src: url('../fonts/Aileron-Regular_latin+latin-ext_gdi.eot');
+  src: url('../fonts/Aileron-Regular_latin+latin-ext_gdi.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Aileron-Regular_latin+latin-ext_gdi.woff') format('woff'),
+    url('../fonts/Aileron-Regular_latin+latin-ext_gdi.ttf') format('truetype'),
+    url('../fonts/Aileron-Regular_latin+latin-ext_gdi.svg#Aileron-Regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-20AC;
+}
+
+@font-face {
+  font-family:'Aileron-SemiBold';
+  src: url('../fonts/Aileron-SemiBold_latin+latin-ext_gdi.eot');
+  src: url('../fonts/Aileron-SemiBold_latin+latin-ext_gdi.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Aileron-SemiBold_latin+latin-ext_gdi.woff') format('woff'),
+    url('../fonts/Aileron-SemiBold_latin+latin-ext_gdi.ttf') format('truetype'),
+    url('../fonts/Aileron-SemiBold_latin+latin-ext_gdi.svg#Aileron-SemiBold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-20AC;
+}
+
+@font-face {
+  font-family:'Cabin-Bold';
+  src: url('../fonts/Cabin-Bold_latin+latin-ext_gdi.eot');
+  src: url('../fonts/Cabin-Bold_latin+latin-ext_gdi.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Cabin-Bold_latin+latin-ext_gdi.woff') format('woff'),
+    url('../fonts/Cabin-Bold_latin+latin-ext_gdi.ttf') format('truetype'),
+    url('../fonts/Cabin-Bold_latin+latin-ext_gdi.svg#Cabin-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-20AC;
+}
+
+@font-face {
+  font-family:'Cabin-Medium';
+  src: url('../fonts/Cabin-Medium_latin+latin-ext_gdi.eot');
+  src: url('../fonts/Cabin-Medium_latin+latin-ext_gdi.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Cabin-Medium_latin+latin-ext_gdi.woff') format('woff'),
+    url('../fonts/Cabin-Medium_latin+latin-ext_gdi.ttf') format('truetype'),
+    url('../fonts/Cabin-Medium_latin+latin-ext_gdi.svg#Cabin-Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-20AC;
+}
+
+@font-face {
+  font-family:'Cabin-Regular';
+  src: url('../fonts/Cabin-Regular_latin+latin-ext_gdi.eot');
+  src: url('../fonts/Cabin-Regular_latin+latin-ext_gdi.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Cabin-Regular_latin+latin-ext_gdi.woff') format('woff'),
+    url('../fonts/Cabin-Regular_latin+latin-ext_gdi.ttf') format('truetype'),
+    url('../fonts/Cabin-Regular_latin+latin-ext_gdi.svg#Cabin-Regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-20AC;
+}

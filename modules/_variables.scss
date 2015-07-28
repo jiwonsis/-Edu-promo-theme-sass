@@ -1,0 +1,28 @@
+$dark: #141316;
+$dark-2: #231f20;
+$yellow: #efd645;
+$green: #92e1b2;
+$red: #ff4e57;
+
+
+
+$colors: 
+  "red" $red,
+  "white" #fff,
+  "baltic-sea" #2a282d,
+  "bossanova" #422654,
+  "amaranth" #f23c57,
+  "yellow" $yellow,
+  "green" $green,
+  "dark" $dark;
+
+
+$slideResp: true;
+
+$color-list:();
+
+@for $i from 1 through length($colors) {
+  $color-list: append($color-list, '.btn-' + nth(nth($colors,$i),1) );
+}
+
+
