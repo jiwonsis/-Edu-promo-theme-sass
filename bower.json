@@ -1,0 +1,20 @@
+{
+  "name": "promo-theme-sass",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jiwonsis/promo-theme-sass",
+  "authors": [
+    "ScottMoon <jiwonsis@naver.com>"
+  ],
+  "description": "Promo project use for sass theme",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
