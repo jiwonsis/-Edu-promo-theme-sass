@@ -9,6 +9,10 @@
   "moduleType": [
     "node"
   ],
+  "keywords": [
+    "scott",
+    "ScottMoon"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
