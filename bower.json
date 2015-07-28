@@ -13,6 +13,9 @@
     "scott",
     "ScottMoon"
   ],
+  "main": [
+    "./style.scss"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
